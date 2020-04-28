@@ -2,22 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72e54500-5bc8-49bf-9303-7ac476ce5510" name="Default Changelist" comment="">
-      <change afterPath="$USER_HOME$/Desktop/PyCharmProjects/Edureka_Learning/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/Desktop/PyCharmProjects/Edureka_Learning/.idea/Edureka_Learning.iml" beforeDir="false" afterPath="$USER_HOME$/Desktop/PyCharmProjects/Edureka_Learning/.idea/Edureka_Learning.iml" afterDir="false" />
-      <change beforePath="$USER_HOME$/Desktop/PyCharmProjects/Edureka_Learning/.idea/misc.xml" beforeDir="false" afterPath="$USER_HOME$/Desktop/PyCharmProjects/Edureka_Learning/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/Desktop/PyCharmProjects/Edureka_Learning/.idea/modules.xml" beforeDir="false" afterPath="$USER_HOME$/Desktop/PyCharmProjects/Edureka_Learning/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/Desktop/PyCharmProjects/Edureka_Learning/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/Desktop/PyCharmProjects/Edureka_Learning/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$USER_HOME$/Desktop/PyCharmProjects/Edureka_Learning/Test.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/PyCharmProjects/Edureka_Learning/Test.py" afterDir="false" />
-      <change beforePath="$USER_HOME$/Desktop/PyCharmProjects/Udemy/.idea/Udemy.iml" beforeDir="false" afterPath="$USER_HOME$/Desktop/PyCharmProjects/Udemy/.idea/Udemy.iml" afterDir="false" />
-      <change beforePath="$USER_HOME$/Desktop/PyCharmProjects/Udemy/temp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Edureka_Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Edureka_Learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Udemy" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UC2wqX15Nch4VYw83GHNZUB1zO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,22 +23,25 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Udemy" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$USER_HOME$/Desktop/PyCharmProjects" />
     </key>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+  <component name="RunDashboard">
+    <option name="ruleStates">
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
       </list>
     </option>
   </component>
@@ -58,6 +57,17 @@
       <updated>1577266465313</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="351" y="55" key="CommitChangelistDialog2" timestamp="1577268500665">

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/Desktop/PyCharmProjects/Edureka_Learning/.idea/Edureka_Learning.iml" filepath="$USER_HOME$/Desktop/PyCharmProjects/Edureka_Learning/.idea/Edureka_Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Edureka_Learning.iml" filepath="$PROJECT_DIR$/.idea/Edureka_Learning.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/PyCharmProjects/Udemy/.idea/Udemy.iml" filepath="$USER_HOME$/Desktop/PyCharmProjects/Udemy/.idea/Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../csaf-cicd/.idea/csaf-cicd.iml" filepath="$PROJECT_DIR$/../csaf-cicd/.idea/csaf-cicd.iml" />
     </modules>
   </component>
 </project>
