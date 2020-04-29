@@ -1,6 +1,6 @@
 import numpy as np
 
-Arr = np.array([1,2,3])
 
+Arr = np.random.random((27))
 
-print (Arr)
+print (Arr.reshape(3,3,3))
