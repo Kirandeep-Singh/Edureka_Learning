@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-''' Problems wiht File SalaryGender.csv 
+''' Problems with File SalaryGender.csv 
 df = pd.read_csv('SalaryGender.csv')
 arr_sal = np.asarray(df['Salary'], float)
 arr_gender = np.asarray(df['Gender'])
@@ -47,8 +47,7 @@ for i in range(0,100):
         countphd += 1
 
 print ('Count of People with PHD is {}'.format(countphd))
-'''
-'''
+
 ### Prob 5 ###
 arr = [0, 5, 4, 0, 4, 4, 3, 0, 0, 5, 2, 1, 1, 9]
 lt = []
@@ -64,9 +63,7 @@ out = np.asarray(lt)
 
 a = np.array([0, 5, 4, 0, 4, 4, 3, 0, 0, 5, 2, 1, 1, 9])
 print (np.bincount(a))
-'''
 
-'''
 ### Prob 6 ###
 
 a = np.array([[0, 1, 2], [ 3, 4, 5], [ 6, 7, 8],[ 9, 10, 11]])
@@ -84,16 +81,22 @@ print (a[~np.isnan(a)]
 a = np.random.random((10,10))
 print (a.max())
 print (a.min())
+
+### Prob 9
+vec = np.random.random(30)
+print (vec.mean())
+
+### Prob 10
+
+arr = np.arange(11)
+arr[(arr>3) & (arr<9)]*=-1
+print (arr)
 '''
 
+### Prob 15
 
-
-
-
-
-
-
-
+df = pd.read_csv('middle_tn_schools.csv')
+print (df.columns)
 
 
 
