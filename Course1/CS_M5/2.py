@@ -20,4 +20,7 @@ for i in fnames:
 
 df.to_csv('Concatenated.csv', index=False)
 
-print (df['Score'].mean())
+df1 = pd.DataFrame()
+
+df1['Sex'] = df['Sex']
+df1['Score'] = df['Score']
