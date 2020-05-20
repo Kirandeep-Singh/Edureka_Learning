@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72e54500-5bc8-49bf-9303-7ac476ce5510" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Course1/CS_M6/.ipynb_checkpoints/CaseStudy1-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course1/CS_M6/.ipynb_checkpoints/Case_Study2-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course1/CS_M6/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course1/CS_M6/CaseStudy1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course1/CS_M6/Case_Study2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course1/CS_M6/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course1/CS_M6/learn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course1/Certification Project/.ipynb_checkpoints/Project-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course1/Certification Project/Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course1/Certification Project/Project.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course1/Certification Project/Project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Edureka_Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Edureka_Learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course1/CS_M5/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CS_M5/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course1/CS_M6/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CS_M6/1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../csaf-cicd" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -62,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1 (1)">
+  <component name="RunManager" selected="Python.Project">
     <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Edureka_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,27 +83,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Edureka_Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course1/CS_M5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course1/CS_M5/1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Edureka_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,6 +96,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course1/CS_M5/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Project" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Edureka_Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course1/Certification Project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course1/Certification Project/Project.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Project" />
         <item itemvalue="Python.1 (1)" />
         <item itemvalue="Python.learn" />
         <item itemvalue="Python.2" />
         <item itemvalue="Python.Test" />
-        <item itemvalue="Python.1" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +209,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588138411726</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="CS_M6_Completed JUpyter NBs">
+      <created>1588408795073</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588408795073</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CS_M6_Completed JUpyter NBs">
+      <created>1588574586090</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588574586090</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -232,7 +245,8 @@
     <MESSAGE value="CS_M6" />
     <MESSAGE value="venv Removed" />
     <MESSAGE value="Test Modif" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Modif" />
+    <MESSAGE value="CS_M6_Completed JUpyter NBs" />
+    <option name="LAST_COMMIT_MESSAGE" value="CS_M6_Completed JUpyter NBs" />
   </component>
   <component name="WindowStateProjectService">
     <state x="351" y="55" key="CommitChangelistDialog2" timestamp="1577268500665">
