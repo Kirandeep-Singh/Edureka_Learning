@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Edureka_Learning.iml" filepath="$PROJECT_DIR$/.idea/Edureka_Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../csaf/.idea/csaf.iml" filepath="$PROJECT_DIR$/../csaf/.idea/csaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/../csaf-cicd/.idea/csaf-cicd.iml" filepath="$PROJECT_DIR$/../csaf-cicd/.idea/csaf-cicd.iml" />
     </modules>
   </component>

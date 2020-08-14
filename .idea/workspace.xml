@@ -2,14 +2,450 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72e54500-5bc8-49bf-9303-7ac476ce5510" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Course1/Certification Project/.ipynb_checkpoints/Project-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course1/Certification Project/Image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course1/Certification Project/Project.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Course1/Certification Project/Project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course1/CS_M10/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course1/CS_M10/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course1/Query-Excel Filter/excel-filter-reading.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course2/CS_M3/.ipynb_checkpoints/Case_Study1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course2/CS_M3/.ipynb_checkpoints/Case_Study2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course2/CS_M3/BostonHousing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course2/CS_M3/Case_Study1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course2/CS_M3/Case_Study2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course2/CS_M3/FyntraCustomerData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course2/CS_M3/cereal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course2/CS_M3/prisoners.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/backup.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafdb/csaf-backup-2020-06-05.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafdb/csaf-backup-2020-06-06.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafdb/csaf-backup-2020-06-12.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafdb/csaf-backup-2020-06-15.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafdb/csaf-backup-2020-06-18.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafdb/csaf-backup-2020-06-20.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafdb/csaf-backup-2020-06-22.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafdb/csaf-backup-2020-06-24.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/EcafLogCollection.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/SufJobTrigger.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/air_install_enable_root.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/suf_readiness.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/upgd/SufJobTrigger.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/CCNCBA/HealthCheckTrigger.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/CCNCBA/PostInstall.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/CCNCBA/SufJobTrigger.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/CCNCBA/Validation.bash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/CCNCBA/XlsToInstlCCNCBAVM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/CCNCBA/suf_readiness.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/HealthCheckTrigger.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/PostConf.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/PostInstall.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/SufJobTrigger.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/suf_readiness.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/SufJobTrigger.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/sdp_install_enable_root.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/SufJobTrigger.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/ecaf-cli/.ecaf_cli.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/ecaf-cli/CLI_Based-Configuration.xlsm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/ecaf-cli/ecaf_cli_install.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/ecaf-cli/ecaf_cli_integration.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/ecaf-cli/sdp_install.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/setup_cicd.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/CS18-2GA/ccncba_vm_in/template/Network.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/CS18-2GA/ngvs_vm_in/template/disable.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/air_bm_in/appresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/air_bm_in/osresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/air_bm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/ccncba_vm_in/UpdateVault.bash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/ccncba_vm_in/appresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/ccncba_vm_in/ccn_cba_ovf_deploy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/ccncba_vm_in/postinstall.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/ccncba_vm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/ccncba_vm_in/vappprop.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/sdp_bm_in/osresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/sdp_bm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/sdp_vm_in/ovfresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/sdp_vm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/air_vm_in/appresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/air_vm_in/ovfresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/air_vm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/sdp_bm_in/osresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/sdp_bm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_bm_in/appresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_bm_in/osresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_bm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_vm_in/appresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_vm_in/ovfresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_vm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ccncba_vm_in/UpdateVault.bash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ccncba_vm_in/appresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ccncba_vm_in/ccn_cba_ovf_deploy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ccncba_vm_in/postinstall.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ccncba_vm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ccncba_vm_in/vappprop.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ngvs_bm_in/appresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ngvs_bm_in/firmwareresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ngvs_bm_in/hw_install_params.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ngvs_bm_in/le_openinstallation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ngvs_bm_in/osresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ngvs_bm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ngvs_bm_in/sudoresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ngvs_vm_in/appresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ngvs_vm_in/ovfresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ngvs_vm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ngvs_vm_in/sudoresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/occ_bm_in/Upgrade_response.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/occ_bm_in/firmwareresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/occ_bm_in/master_occ_spp_firmware_upgrade_playlist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/sdp_bm_in/osresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/sdp_bm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_bm_in/appresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_bm_in/osresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_bm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_bm_up/AIR_EP02A.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_vm_in/appresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_vm_in/ovfresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_vm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_vm_up/AIR_EP02A.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/sdp_bm_in/osresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/sdp_bm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/sdp_vm_in/ovfresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/sdp_vm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_bm_in/ActivateStackChange.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_bm_in/ConfigureCIM.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_bm_in/appresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_bm_in/hw_install_params.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_bm_in/install_air_linux.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_bm_in/le_openinstallation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_bm_in/osresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_bm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_vm_in/AIRInstallResponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_vm_in/ActivateStackChange.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_vm_in/ConfigureCIM.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_vm_in/appresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_vm_in/bcd_install.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_vm_in/install_air_linux_virtual.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_vm_in/ovfresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_vm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/occ_bm_in/Upgrade_response.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/occ_bm_in/firmwareresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/occ_bm_in/master_occ_spp_firmware_upgrade_playlist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/occ_bm_in/setplaylist.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/PCP1901/occ_bm_in/Upgrade_response.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/PCP1901/occ_bm_in/firmwareresponse.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/CCNCBA_Checks.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/ccncba_healthcheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/controller/CSAFSuperAdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/controller/ECAFCiCdController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/Interval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/CiCdService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/FileValidationEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/vo/ParsedExcelVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/icp-onboarding/icp-onboarding.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/icp-onboarding/icp-onboarding.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/icp-onboarding/icp-onboarding.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Edureka_Learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Edureka_Learning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course1/CS_M6/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Course1/CS_M6/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/.gitlab-ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/.gitlab-ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/HealthCheckTrigger.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/HealthCheckTrigger.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/Validation.bash" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/Validation.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/air_bm_install.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/air_bm_install.sh_bkp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/air_bm_install.sh_bkp2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/air_integration.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/air_integration.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/air_integration_bkp.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/air_integration_rhel6.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/air_integration_rhel6.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/air_vm_install.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/upgd/Backup_conf_child.bash" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/upgd/Backup_conf_child.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/upgd/Backup_conf_master.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/upgd/Backup_conf_master.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/upgd/FinalizeJobTrigger.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/upgd/HealthCheckTrigger.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/upgd/HealthCheckTrigger.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/upgd/PostUpgrade_Tasks.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/upgd/PostUpgrade_Tasks.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/upgd/PrepJobTrigger.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/upgd/UpgdJobTrigger.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/upgd/Validation.bash" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/AIR/upgd/Validation.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/Validation.bash" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/Validation.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/XlsToInstlNgvsBM.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/XlsToInstlNGVSBM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/XlsToInstlNgvsVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/XlsToInstlNGVSVM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/ngvs_vm_install.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/ngvs_vm_install_31012020.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/upgd/Backup_conf_child.bash" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/upgd/Backup_conf_child.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/upgd/Backup_conf_master.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/upgd/Backup_conf_master.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/upgd/HealthCheckTrigger.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/upgd/HealthCheckTrigger.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/upgd/SparkConfiguration.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/upgd/SparkConfiguration.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/upgd/Validation.bash" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/upgd/Validation.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/upgd/misc_parent.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/upgd/misc_parent.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/upgd/snapshot.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/upgd/snapshot.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/upgd/suf_readiness.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/NGVS/upgd/suf_readiness.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/HealthCheckTrigger.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/HealthCheckTrigger.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/Validation.bash" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/Validation.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/XlsToInstlOCCBM.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/XlsToInstlOCCBM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/occ_bm_install.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/occ_vm_install.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/occ_vm_install.sh.kd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/occ_vm_install.sh.main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/suf_readiness.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/suf_readiness.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/upgd/Backup_conf_master.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/upgd/Backup_conf_master.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/upgd/HealthCheckTrigger.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/upgd/HealthCheckTrigger.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/upgd/Validation.bash" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/OCC/upgd/Validation.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/HealthCheckTrigger.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/HealthCheckTrigger.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/Validation.bash" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/Validation.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/sdp_bm_install.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/sdp_bm_install.sh_bkp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/sdp_icp_parser.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/sdp_icp_parser.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/sdp_integration.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/sdp_integration.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/sdp_vm_install.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/sdp_vm_install.sh_bkp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/suf_readiness.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/suf_readiness.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/Backup_conf_child.bash" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/Backup_conf_child.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/Backup_conf_master.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/Backup_conf_master.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/FinalizeJobTrigger.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/GeoRedTrigger.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/GeoRedTrigger.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/HealthCheckTrigger.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/HealthCheckTrigger.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/PostUpgrade_Tasks.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/PostUpgrade_Tasks.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/PrePrepare_Tasks.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/PrePrepare_Tasks.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/PrepJobTrigger.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/SetupJobTrigger.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/UpgdJobTrigger.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/Validation.bash" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/Validation.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/ecaf_geored_config.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/ecaf_geored_config.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/suf_readiness.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/SDP/upgd/suf_readiness.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/NGVS/ngvs_common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/NGVS/ngvs_common.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/Validation_integration.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/Validation_integration.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/html_content.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/html_content.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/install.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/install.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/install_new.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/install_new.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/integration.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/integration.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/revalidation.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/revalidation.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/upgrade_final.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/upgrade_final.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/upgrade_offline.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/upgrade_offline.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/upgrade_offline.sh_befocc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/upgrade_online.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/upgrade_online.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/upgrade_online.sh_befocc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/validation.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/validation.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/bin/validation.sh_bkp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/integration/AIR/bin/AF_script.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/integration/AIR/bin/AF_script.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/integration/AIR/bin/FDSRequest.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/integration/AIR/bin/FDSRequest.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/integration/AIR/bin/SMSC_script.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/integration/AIR/bin/SMSC_script.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/integration/AIR/bin/TrustedHost.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/integration/AIR/bin/TrustedHost.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/lib/.set_env.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/scripts/lib/.set_env.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/lib/.set_env_beforemerge.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/lib/.set_env_bkp.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/lib/.set_env_ngvs.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/scripts/lib/Validation.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/setup.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/CS18-2GA/ngvs_bm_in/template/APP.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/CS18-2GA/ngvs_bm_in/template/APP.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/CS18-2GA/ngvs_bm_in/template/dis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/CS18-2GA/ngvs_bm_in/template/disable.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/CS18-2GA/ngvs_vm_in/template/APP.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/CS18-2GA/ngvs_vm_in/template/APP.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/air_bm_in/AIR1802ks.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/air_bm_in/AIR1802ks.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/air_bm_in/AIRInstallResponse.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/air_bm_in/OSInstallResponse_Edit.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/air_bm_in/copy_playlist.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/air_bm_in/ks.cfg_bkp" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/air_bm_in/AIR2001ks.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/air_bm_in/update_user.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/sdp_bm_in/OSInstallResponse_Edit.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/sdp_bm_in/SDPCS1902ks.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/sdp_bm_in/SDPInstallResponse_Edit.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/sdp_bm_in/appresponse.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/sdp_bm_in/copy_playlist.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/sdp_bm_in/pic_html_for_mail.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/sdp_vm_in/APP-VMSDPIN_kd1234_CS18-2GA.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/sdp_vm_in/APPInstallResponse.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/sdp_vm_in/appresponse.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/sdp_vm_in/OVFInstallResponse_Edit.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/sdp_vm_in/SDPINSTALL_resp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/sdp_vm_in/pic_html_for_mail.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/air_vm_in/Cleanup_AIRGen10.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/air_vm_in/OVFInstallResponse_Edit.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/air_vm_in/airinstallmailbody.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/air_vm_in/fetch_PostHCresults.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/air_vm_in/pic_html_for_mail.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/air_vm_in/posthc_trigger.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/air_vm_in/update_root_ssh_settings.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/air_vm_in/vcenter_username_verify.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/occ_bm_in/setplaylist.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/occ_bm_in/setplaylist.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/occ_vm_in/OVFInstallResponse_Edit.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/occ_vm_in/pic_html_for_mail.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/sdp_bm_in/OSInstallResponse_Edit.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/sdp_bm_in/SDPInstallResponse_Edit.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/sdp_bm_in/appresponse.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/sdp_bm_in/copy_playlist.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1901/sdp_bm_in/pic_html_for_mail.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_bm_in/AIR1902ks.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_bm_in/AIR1902ks.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_bm_in/AIRInstallResponse.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_bm_in/ConfigureCIM.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_bm_in/ConfigureCIM.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_bm_in/OSInstallResponse_Edit.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_bm_in/copy_playlist.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_vm_in/AIRInstallResponse.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_vm_in/AIRInstallResponse.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_vm_in/Cleanup_AIRGen10.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_vm_in/OVFInstallResponse_Edit.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_vm_in/airinstallmailbody.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_vm_in/fetch_PostHCresults.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_vm_in/pic_html_for_mail.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_vm_in/posthc_trigger.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_vm_in/update_root_ssh_settings.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/air_vm_in/vcenter_username_verify.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/ngvs_vm_up/Firmware.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/occ_bm_in/OCCFWResponse.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/occ_bm_in/OCCInstallResponse.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/occ_bm_in/occinstallmailbody.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/occ_bm_in/pic_html_for_mail.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/occ_bm_in/setplaylist.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/occ_bm_in/setplaylist.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/occ_vm_in/OCCINSTL_resp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/occ_vm_in/OCCInstallResponse.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/occ_vm_in/occinstallmailbody.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/occ_vm_in/occinstallmailbody.sh.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/occ_vm_in/pic_html_for_mail.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/sdp_bm_in/OSInstallResponse_Edit.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/sdp_bm_in/SDPCS1901ks.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/sdp_bm_in/SDP1902ks.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/sdp_bm_in/SDPCS1901ks_Gen9P840.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/sdp_bm_in/SDPInstallResponse_Edit.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/sdp_bm_in/appresponse.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/sdp_bm_in/configure_cluster.playlist.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/sdp_bm_in/configure_cluster.playlist.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/sdp_bm_in/copy_playlist.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/sdp_bm_in/install_host1.playlist.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/sdp_bm_in/install_host1.playlist.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/sdp_bm_in/install_host2.playlist.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/sdp_bm_in/install_host2.playlist.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1902/sdp_bm_in/pic_html_for_mail.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_bm_in/AIR1903ks.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_bm_in/AIR1903ks.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_bm_in/AIRInstallResponse.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_bm_in/OSInstallResponse_Edit.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_bm_in/copy_playlist.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_bm_in/install_air_linux.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_bm_in/install_air_linux.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_vm_in/Cleanup_AIRGen10.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_vm_in/OVFInstallResponse_Edit.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_vm_in/airinstallmailbody.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_vm_in/fetch_PostHCresults.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_vm_in/pic_html_for_mail.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_vm_in/posthc_trigger.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_vm_in/update_root_ssh_settings.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/air_vm_in/vcenter_username_verify.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/sdp_bm_in/OSInstallResponse_Edit.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/sdp_bm_in/SDP1903ks.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/sdp_bm_in/SDP1903ks.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/sdp_bm_in/SDPInstallResponse_Edit.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/sdp_bm_in/appresponse.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/sdp_bm_in/copy_playlist.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/sdp_vm_in/APP-VMSDPIN_kd1234_CS18-2GA.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/sdp_vm_in/APPInstallResponse.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1802/sdp_vm_in/appresponse.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/sdp_vm_in/OVFInstallResponse_Edit.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/sdp_vm_in/SDPINSTALL_resp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP1903/sdp_vm_in/pic_html_for_mail.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/occ_bm_up/firmware_response.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/occ_bm_up/firmware_response.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/occ_vm_in/OCCInstallResponse.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/occ_vm_in/occinstallmailbody.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/ICP2001/occ_vm_in/pic_html_for_mail.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/PCP1901/occ_bm_in/OCCFWResponse.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/PCP1901/occ_bm_in/OCCInstallResponse.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/PCP1901/occ_bm_in/occinstallmailbody.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/PCP1901/occ_bm_in/pic_html_for_mail.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/PCP1901/occ_bm_in/setplaylist.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/PCP1901/occ_bm_in/setplaylist.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/AIR/AIR_Checks.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/AIR/AIR_Checks.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/AIR/air_hc_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/AIR/air_hc_report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/AIR/air_healthcheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/AIR/air_healthcheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/ccn_hc_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/ccncba_hc_report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/ccn_healthcheck.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/ANSI.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/ANSI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/FSM.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/FSM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/INSTALL" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/INSTALL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/PKG-INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/README" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/doc/ANSI.html" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/doc/ANSI.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/doc/FSM.html" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/doc/FSM.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/doc/clean.css" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/doc/clean.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/doc/email.png" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/doc/email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/doc/examples.html" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/doc/examples.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/doc/fdpexpect.html" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/doc/fdpexpect.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/doc/index.template.html" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/doc/index.template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/doc/pexpect.html" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/doc/pexpect.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/doc/pxssh.html" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/doc/pxssh.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/doc/screen.html" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/doc/screen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/README" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/astat.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/astat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/bd_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/bd_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/bd_serv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/bd_serv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/cgishell.cgi" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/cgishell.cgi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/chess.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/chess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/chess2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/chess2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/chess3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/chess3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/df.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/df.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/fix_cvs_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/fix_cvs_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/ftp.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/ftp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/hive.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/hive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/log_69.80.212.10" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/log_69.80.212.10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/log_69.80.212.11" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/log_69.80.212.11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/monitor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/monitor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/passmass.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/passmass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/python.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/rippy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/rippy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/script.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/ssh_session.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/ssh_session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/ssh_tunnel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/ssh_tunnel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/sshls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/sshls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/table_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/table_test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/topip.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/topip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/examples/uptime.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/examples/uptime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/fdpexpect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/fdpexpect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/pexpect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/pexpect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/pxssh.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/pxssh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/screen.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/screen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCN/pypkg/pexpect-2.3/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/CCNCBA/pypkg/pexpect-2.3/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/NGVS/NGVS_Checks.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/NGVS/NGVS_Checks.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/NGVS/ngvs_hc_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/NGVS/ngvs_hc_report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/NGVS/ngvs_healthcheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/NGVS/ngvs_healthcheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/OCC/OCC_Checks.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/OCC/OCC_Checks.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/OCC/occ_hc_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/OCC/occ_hc_report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/OCC/occ_healthcheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/OCC/occ_healthcheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/SDP/SDP_Checks.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/SDP/SDP_Checks.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/SDP/sdp_hc_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/SDP/sdp_hc_report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/SDP/sdp_healthcheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/src/healthcheck_packages/SDP/sdp_healthcheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafscripts/uninstall.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafscripts/uninstall.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/controller/CSAFAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/controller/CSAFAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/controller/CSAFController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/controller/CSAFController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/controller/CSAFPlaylistController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/controller/CSAFPlaylistController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/entity/SubJobTaskDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/entity/SubJobTaskDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/entity/TaskDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/entity/TaskDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/entity/TaskMapClub.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/entity/TaskMapClub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/EnvTypeRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/EnvTypeRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/HardwareRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/HardwareRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/IcpVersionRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/IcpVersionRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/NodeTypeRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/NodeTypeRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/OfferingTypeRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/OfferingTypeRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/SubJobTaskDetailRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/SubJobTaskDetailRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/SubOfferingTypeRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/SubOfferingTypeRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/TaskDetailRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/TaskDetailRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/TaskMapRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/repository/TaskMapRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/CSAFLogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/CSAFLogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/CommandExecutorUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/CommandExecutorUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/ConfigService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/ConfigService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/FileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/FileValidation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/JobService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/JobService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/SubJobTaskDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/SubJobTaskDetailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/TaskDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/TaskDetailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/TaskMapService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/service/TaskMapService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/upgrade/UpgradeSourceICPService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/upgrade/UpgradeSourceICPService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/utils/CsafConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/utils/CsafConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/utils/CsafUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/utils/CsafUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/vo/SubJobTaskDetailVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/vo/SubJobTaskDetailVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/vo/TaskDetailVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/java/com/ericsson/automation/csafservices/vo/TaskDetailVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/resources/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/resources/application-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/resources/application-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/resources/application-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafservices/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafservices/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/components/add-job/add-job.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/add-job/add-job.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/components/add-job/add-job.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/add-job/add-job.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/components/add-job/add-job.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/add-job/add-job.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/components/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/home/home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/components/home/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/home/home.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/components/job-details/edit-playtlist/edit-playlist.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/job-details/edit-playtlist/edit-playlist.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/components/job-details/edit-playtlist/edit-playlist.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/job-details/edit-playtlist/edit-playlist.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/components/job-details/job-details.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/job-details/job-details.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/components/job-details/job-details.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/job-details/job-details.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/components/job-details/job-details.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/job-details/job-details.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/components/job-details/job-logs/job-logs.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/job-details/job-logs/job-logs.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/components/shared/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/shared/header/header.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/components/upgrade-mapping/upgrade-mapping.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/upgrade-mapping/upgrade-mapping.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/components/upgrade-mapping/upgrade-mapping.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/components/upgrade-mapping/upgrade-mapping.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csaf/csafui/src/app/services/shared/common.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../csaf/csafui/src/app/services/shared/common.service.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +461,38 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/../csaf" source="dev" />
+                <branch-info repo="$PROJECT_DIR$/../csaf" source="cicdDev" />
+                <branch-info repo="$PROJECT_DIR$/../csaf" source="ngvsDev" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/../csaf" source="origin/dev" />
+                <branch-info repo="$PROJECT_DIR$/../csaf" source="origin/cicdDev" />
+                <branch-info repo="$PROJECT_DIR$/../csaf" source="origin/ngvsDev" />
+                <branch-info repo="$PROJECT_DIR$/../csaf" source="origin/secureFeat" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../csaf" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../csaf" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1UC2wqX15Nch4VYw83GHNZUB1zO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -41,10 +508,13 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../csaf-cicd" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../csaf-cicd/bin" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ekirand\PycharmProjects\csaf-cicd\bin" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$USER_HOME$/Desktop/PyCharmProjects" />
     </key>
@@ -61,28 +531,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Project">
-    <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Edureka_Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Course1/CS_M6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Course1/CS_M6/1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.file_parse">
     <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Edureka_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,6 +595,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="file_parse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="csaf-cicd" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../csaf-cicd/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../csaf-cicd/bin/file_parse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="learn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Edureka_Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,11 +639,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.file_parse" />
+        <item itemvalue="Python.Test" />
         <item itemvalue="Python.Project" />
-        <item itemvalue="Python.1 (1)" />
         <item itemvalue="Python.learn" />
         <item itemvalue="Python.2" />
-        <item itemvalue="Python.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -223,12 +693,44 @@
       <option name="project" value="LOCAL" />
       <updated>1588574586090</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Completed Project">
+      <created>1589954171411</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589954171411</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/../csaf" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -238,6 +740,11 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -246,12 +753,11 @@
     <MESSAGE value="venv Removed" />
     <MESSAGE value="Test Modif" />
     <MESSAGE value="CS_M6_Completed JUpyter NBs" />
-    <option name="LAST_COMMIT_MESSAGE" value="CS_M6_Completed JUpyter NBs" />
+    <MESSAGE value="Completed Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="351" y="55" key="CommitChangelistDialog2" timestamp="1577268500665">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="351" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1577268500665" />
+    <state x="351" y="55" key="CommitChangelistDialog2" />
+    <state x="351" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" />
   </component>
 </project>
